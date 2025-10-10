@@ -6,7 +6,7 @@
 📈 Business Problem & Project Goal
 💡 Business Problem
 
-For farmers deciding to plant a specific crop (e.g., Wheat or Soybean), there’s significant uncertainty about the expected yield.
+For farmers deciding to plant a specific crop (e.g., Paddy or Soybean), there’s significant uncertainty about the expected yield.
 Decisions about resource allocation — such as fertilizer, pesticide, and labor investments — are often made without accurate information about the potential outcome.
 
 This uncertainty can lead to:
@@ -23,9 +23,9 @@ The goal of this project is to develop a machine learning model that accurately 
 
 💧 Rainfall
 
-🌱 Soil pH
+🌱 Soil type
 
-🌾 Fertilizer usage
+🌾 Whether conditions
 
 This model aims to answer the question:
 
